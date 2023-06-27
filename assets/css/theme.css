@@ -1093,7 +1093,7 @@ span.sk__menu-icon:not(.accented):not(.sk__gradient-back-v1) span[class^="icon-"
 		transition: all 0.4s ease 0s;
 		position: fixed;
 		top: 0;
-		left: 0;
+		left:0;
 		width: 100%;
 		height: 100px;
 		border-bottom: 1px solid rgba(255,255,255,0.12);
@@ -1112,7 +1112,7 @@ span.sk__menu-icon:not(.accented):not(.sk__gradient-back-v1) span[class^="icon-"
 	.sk__mobile-main-logo {
 		position: fixed;
 		top: 0;
-		left: 0;
+		left:0;
 		z-index: 9998;
 		-webkit-filter: drop-shadow(1px 2px 0px rgba(0,0,0,0.33));
 		        filter: drop-shadow(1px 2px 0px rgba(0,0,0,0.33));
@@ -1415,14 +1415,14 @@ span.sk__menu-icon:not(.accented):not(.sk__gradient-back-v1) span[class^="icon-"
 		-o-transition: all 0.4s ease 0s;
 		transition: all 0.4s ease 0s;
 		top: 19px;
-		padding-left: 15px;
-		width: 100%;
+		padding-left: 0px;
+		width: 79%;
 		background: #101112;
 		border-bottom: 1px solid #1b1e20;
 	}
 
 	.sk__mobile-menu-logo img {
-		height: 66px;
+		height: 38px;
 		width: auto;
 	}
 
@@ -1616,8 +1616,9 @@ span.sk__menu-icon:not(.accented):not(.sk__gradient-back-v1) span[class^="icon-"
 	}
 	
 	.sk__mobile-main-logo img {
-		height: 100px;
+		height: 75px;
 		width: auto;
+
 	}
 	body.sk__scrolling-started .sk__mobile-main-logo img {
 		height: 72px;
@@ -2433,7 +2434,7 @@ span.h1-small.sk__gradient-fancy-text-back {
 	font-size: 38px;
 	font-size: 39px;
 	letter-spacing: -1.52px;
-	color: #FFFFFF;
+	color: #ddaf5d;
 }
 @media all and (max-width: 575px) { /* xs */
 	h1.h1-small, 
@@ -2776,7 +2777,7 @@ h5 {
 	font-size: 20px;
 	line-height: 33.6px;
 	letter-spacing: -0.2px;
-	color: #FFFFFF;
+	color: #e0b15e;
 }
 @media all and (max-width: 1399px) { /* xl */
 	h5 {
