@@ -4961,7 +4961,7 @@ span.numbers-deco {
 }
 
 .about-right-image {
-	background-image: url(../images/about-us.html);
+	background-image: url('../images/portfolio/Img011.jpg');
 }
 
 .custom-about-us-p2 {
@@ -6502,11 +6502,23 @@ p.skills-subhead {
 }
 
 .sk__testimonial-img-1 {
-	background-image: url(../images/testimonial-img-1.html);
+	background-image: url('../images/team/11.jpg');
 }
 
 .sk__testimonial-img-2 {
-	background-image: url(../images/testimonial-img-2.html);
+	background-image: url('../images/team/12.jpg');
+}
+
+.sk__testimonial-img-3 {
+	background-image: url('../images/team/13.jpg');
+}
+
+.sk__testimonial-img-4 {
+	background-image: url('../images/team/14.jpg');
+}
+
+.sk__testimonial-img-5 {
+	background-image: url('../images/team/15.jpg');
 }
 
 .sk__testimonial-txt {
